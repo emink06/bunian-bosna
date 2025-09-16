@@ -171,5 +171,8 @@
   "failed_to_update_review": "Failed to update review. Please try again.",
   "review_too_long": "Review is too long. Maximum {} characters.",
   "continue": "Continue",
-  "edit_your_review": "Edit Your Review"
+  "edit_your_review": "Edit Your Review",
+  "send_verification_code": "Send Verification Code",
+  "please_enter_verification_code": "Please enter the verification code.",
+  "please_log_in_to_submit_review": "Please log in to submit or update a review."
 }

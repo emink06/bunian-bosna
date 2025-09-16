@@ -171,5 +171,8 @@
   "failed_to_update_review": "Ažuriranje recenzije nije uspjelo. Molimo pokušajte ponovo.",
   "review_too_long": "Recenzija je predugačka. Maksimalno {} znakova.",
   "continue": "Nastavi",
-  "edit_your_review": "Uredite vašu recenziju"
+  "edit_your_review": "Uredite vašu recenziju",
+  "send_verification_code": "Pošalji Verifikacijski Kod",
+  "please_enter_verification_code": "Molimo unesite verifikacijski kod.",
+  "please_log_in_to_submit_review": "Molimo prijavite se da pošaljete ili ažurirate recenziju."
 }
